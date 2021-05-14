@@ -4,7 +4,8 @@ sections:
   - type: hero_section
     title: Catalog
     align: center
-  - type: <iframe height="800px" width="100%" src="https://github.com/ajreinke/pink-robin-c0acf/blob/master/content/pages/embedThis.html" />
+  - type: content_section
+  
 seo:
   title: Product Catalog
   description: This is the Product Catalog page
