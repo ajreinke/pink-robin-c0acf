@@ -26,7 +26,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Terms
+      value: Terms and Conditions
     - name: 'twitter:description'
       value: This is the Terms page
     - name: 'twitter:image'
