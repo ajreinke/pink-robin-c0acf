@@ -8,7 +8,7 @@ sections:
     content: <iframe height="800px" width="100%" src="https://docs.google.com/forms/d/e/1FAIpQLScSmgZr3x7PppRMv0ZJuTPAzdCB31K4mdAUfibLXcrwf6dABw/viewform" />
 seo:
   title: Who We Are
-  description: This is the about us page
+  description: This is the Unsubscribe page
   extra:
     - name: 'og:type'
       value: website
@@ -28,7 +28,7 @@ seo:
     - name: 'twitter:title'
       value: Who We Are
     - name: 'twitter:description'
-      value: This is the about us page
+      value: This is the Unsubscribe page
     - name: 'twitter:image'
       value: images/1.png
       relativeUrl: true
