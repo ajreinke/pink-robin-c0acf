@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Terms and Conditions
 seo:
   title: ''
   description: ''
