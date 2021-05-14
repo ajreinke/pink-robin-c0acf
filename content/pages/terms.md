@@ -8,7 +8,7 @@ sections:
     content: "##### This website is operated by Alpine Supply, Inc. Throu"
 seo:
   title: Terms and Conditions
-  description: This is the Unsubscribe page
+  description: This is the Terms page
   extra:
     - name: 'og:type'
       value: website
