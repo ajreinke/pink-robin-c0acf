@@ -32,7 +32,7 @@ sections:
           ##### Alpine Supply, Inc. supplies B2B and Government markets around
           the world. 
         align: left
-        image: images/feature.svg
+        image: images/shutterstock_160393526.jpg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
