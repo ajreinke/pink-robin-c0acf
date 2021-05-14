@@ -1,5 +1,5 @@
 ---
-title: Unsubscribe
+title: Terms and Conditions
 sections:
   - type: hero_section
     title: Unsubscribe
