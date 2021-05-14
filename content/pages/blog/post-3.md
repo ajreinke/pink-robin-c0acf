@@ -7,7 +7,7 @@ categories:
 tags:
   - Stackbit
   - JAMstack
-image: images/140-39070.webp
+image: images/140-39067-2.webp
 image_alt: Post 3 placeholder image
 excerpt: >-
   This Price Buys You: 1 each Per: stDelivery Days: 10UPC:
