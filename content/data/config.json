@@ -77,7 +77,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Returns",
                 "url": "#",
                 "style": "link",
                 "new_window": false,
