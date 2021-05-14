@@ -5,19 +5,7 @@ sections:
     title: Who We Are
     align: center
   - type: content_section
-    content: >-
-      Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
-      sit amet venenatis urna cursus eget nunc. Dui nunc mattis enim ut tellus.
-      Eu sem integer vitae justo eget magna fermentum. Habitant morbi tristique
-      senectus et netus et malesuada fames. Ipsum dolor sit amet consectetur
-      adipiscing elit pellentesque habitant.
-
-
-      Aliquet lectus proin nibh nisl condimentum id venenatis a condimentum. Ac
-      felis donec et odio pellentesque. Sem nulla pharetra diam sit amet.
-      Egestas tellus rutrum tellus pellentesque eu. Auctor augue mauris augue
-      neque. Lectus arcu bibendum at varius vel pharetra. Enim sed faucibus
-      turpis in eu mi bibendum neque egestas.
+    content: "##### Alpine Supply Inc. (ASI) an Alaskan corporation, has become a valued resource and partner for businesses and governments worldwide. We offer competitive pricing, National Stock Number (NSN) ordering, as well as a bulk ordering API for our large customers.\n\n##### Our products ship direct from the manufacturer, so you know they are the correct part at the best price.\n\n##### By striving to grow organically and partnering with new manufacturers, we have created a system of continuous natural growth. We only partner with manufacturers and brands we trust and can rely on for quality and delivery.\n\n##### We value our customers and work hard to ensure their complete satisfaction.\_***Before, during, and after every sale***, we will be there to answer any questions and to provide the best experience possible.\n"
   - type: team_section
     title: Our Team
     team:
