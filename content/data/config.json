@@ -18,7 +18,7 @@
             {
                 "label": "Contact Us",
                 "url": "/contact",
-                "style": "primary"
+                "style": "link"
             },
             {
                 "label": "Unsubscribe",
