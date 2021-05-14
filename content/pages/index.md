@@ -51,7 +51,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Feature 3
+      - title: PO's / Government Contracts / Visa/MC
         content: >
           ##### We accept credit cards as well as Purchase Orders (on approved
           credit).
