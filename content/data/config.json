@@ -28,7 +28,8 @@
                 "no_follow": false,
                 "type": "action"
             }
-        ]
+        ],
+        "logo": "images/logo%2520transparnet-01.png"
     },
     "footer": {
         "has_nav": true,
