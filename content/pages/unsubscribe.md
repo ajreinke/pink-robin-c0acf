@@ -6,6 +6,16 @@ sections:
     align: center
   - type: content_section
     content: <iframe height="800px" width="100%" src="https://docs.google.com/forms/d/e/1FAIpQLScSmgZr3x7PppRMv0ZJuTPAzdCB31K4mdAUfibLXcrwf6dABw/viewform" />
+
+    <script type="text/javascript">var submitted=false;</script>
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
+onload="if(submitted) {window.location='thankyou.html';}"></iframe>
+
+<form action="https://docs.google.com/forms/d/e/safdalfjaISv65R6J11H0o_7FadflUm/formResponse" 
+method="post" target="hidden_iframe" onsubmit="submitted=true;">
+...
+</form>
+
 seo:
   title: Who We Are
   description: This is the Unsubscribe page
