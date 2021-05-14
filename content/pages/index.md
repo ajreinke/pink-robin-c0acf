@@ -52,10 +52,9 @@ sections:
             url: /features
             style: secondary
       - title: Feature 3
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          ##### We accept credit cards as well as Purchase Orders (on approved
+          credit).
         align: left
         image: images/shutterstock_160393526.jpg
         image_alt: Feature 3 placeholder image
