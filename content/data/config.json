@@ -19,8 +19,41 @@
                 "label": "Contact Us",
                 "url": "/contact",
                 "style": "primary"
+            },
+            {
+                "label": "Unsubscribe",
+                "url": "/unsubscribe",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
+                "label": "Returns",
+                "url": "/returns",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
+                "label": "Terms and Conditions",
+                "url": "/terms",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
+                "label": "Privacy Policy",
+                "url": "/privacy-policy",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             }
-        ]
+        ],
+        "logo": "images/logoAlpine.jpg"
     },
     "footer": {
         "has_nav": true,

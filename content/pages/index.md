@@ -49,10 +49,11 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: PO's / Government Contracts / Visa/MC
+      - title: Payment Methods
         content: >
           ##### We accept credit cards as well as Purchase Orders (on approved
-          credit).
+          credit). PO's / Government Contracts / Visa / Mastercard are all
+          accepted.
         align: left
         image: images/shutterstock_160393526.jpg
         image_alt: Feature 3 placeholder image
@@ -67,9 +68,6 @@ sections:
     recent_count: 3
   - type: cta_section
     title: Subscribe To Our Newsletter
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
     actions:
       - label: Learn More
         url: /features
