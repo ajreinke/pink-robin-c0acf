@@ -7,7 +7,7 @@ sections:
   - type: content_section
     content: >-
       <iframe height="800px" width="100%"
-      src="embedThis.html"
+      src="/embedThis.html"
       />
 seo:
   title: Product Catalog
