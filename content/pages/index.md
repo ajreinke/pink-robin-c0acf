@@ -52,7 +52,8 @@ sections:
       - title: Payment Methods
         content: >
           ##### We accept credit cards as well as Purchase Orders (on approved
-          credit).
+          credit). PO's / Government Contracts / Visa / Mastercard are all
+          accepted.
         align: left
         image: images/shutterstock_160393526.jpg
         image_alt: Feature 3 placeholder image
