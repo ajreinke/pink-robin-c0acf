@@ -30,11 +30,7 @@ sections:
       - title: Feature 1
         content: >
           ##### Alpine Supply, Inc. supplies B2B and Government markets around
-          the world. We have thousands of stocked parts and have access to much
-          more from hundreds of brand. We are an Authorized Distributor for
-          every part we list so you know you are getting the best price
-          possible. We accept credit cards as well as Purchase Orders (on
-          approved credit).
+          the world. 
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
