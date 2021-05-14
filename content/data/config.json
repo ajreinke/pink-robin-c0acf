@@ -45,7 +45,7 @@
                 "type": "action"
             },
             {
-                "label": "privacy",
+                "label": "privacy-policy",
                 "url": "#",
                 "style": "link",
                 "new_window": false,
