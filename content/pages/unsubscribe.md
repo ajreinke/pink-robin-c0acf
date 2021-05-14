@@ -11,7 +11,7 @@ sections:
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
 onload="if(submitted) {window.location='thankyou.html';}"></iframe>
 
-<form action="https://docs.google.com/forms/d/e/safdalfjaISv65R6J11H0o_7FadflUm/formResponse" 
+<form action="https://docs.google.com/forms/d/e/1FAIpQLScSmgZr3x7PppRMv0ZJuTPAzdCB31K4mdAUfibLXcrwf6dABw/viewform" 
 method="post" target="hidden_iframe" onsubmit="submitted=true;">
 ...
 </form>
