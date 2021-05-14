@@ -7,7 +7,7 @@ categories:
 tags:
   - Stackbit
   - JAMstack
-image: images/3.png
+image: images/140-39070.webp
 image_alt: Post 3 placeholder image
 excerpt: >-
   Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia
