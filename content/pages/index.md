@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
+    title: Welcome To Alpine Supply
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
@@ -28,10 +28,13 @@ sections:
     title: Features
     features:
       - title: Feature 1
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          ##### Alpine Supply, Inc. supplies B2B and Government markets around
+          the world. We have thousands of stocked parts and have access to much
+          more from hundreds of brand. We are an Authorized Distributor for
+          every part we list so you know you are getting the best price
+          possible. We accept credit cards as well as Purchase Orders (on
+          approved credit).
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
