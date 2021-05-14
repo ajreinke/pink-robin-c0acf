@@ -1,5 +1,5 @@
 ---
-title: Cur Ipse Pythagoras Et Aegyptum Lustravit
+title: '132 PC MECHANIC’S TOOL SET, 24 IN L'
 date: '2020-05-28'
 author: content/data/team/gordon-norman.yaml
 categories:
@@ -7,12 +7,11 @@ categories:
 tags:
   - Stackbit
   - JAMstack
-image: images/3.png
+image: images/140-39067-2.webp
 image_alt: Post 3 placeholder image
 excerpt: >-
-  Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia
-  dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis,
-  inquit, me dixisse.
+  This Price Buys You: 1 each Per: stDelivery Days: 10UPC:
+  357943906790Manufacturer: ChannellockPart Number: 132 PC. MECHANICS TOOL SET
 seo:
   title: Cur Ipse Pythagoras Et Aegyptum Lustravit
   description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'

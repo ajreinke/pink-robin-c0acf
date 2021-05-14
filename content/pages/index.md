@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome To Alpine Supply
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: '100,000 Products From Industrial Hardware to Office Supplies.'
     actions:
       - label: Learn More
         url: /features
@@ -14,7 +12,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/hero.svg
+    image: images/shutterstock_1929800966.jpg
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
@@ -25,44 +23,38 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - type: features_section
-    title: Features
+    title: Give Us a Try
     features:
-      - title: Feature 1
+      - title: Worldwide Supplier
         content: >
           ##### Alpine Supply, Inc. supplies B2B and Government markets around
-          the world. We have thousands of stocked parts and have access to much
-          more from hundreds of brand. We are an Authorized Distributor for
-          every part we list so you know you are getting the best price
-          possible. We accept credit cards as well as Purchase Orders (on
-          approved credit).
+          the world. 
         align: left
-        image: images/feature.svg
+        image: images/shutterstock_160393526.jpg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Feature 2
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+      - title: Tens of Thousands of Products
+        content: >
+          ##### We have thousands of stocked parts and have access to much more
+          from hundreds of brand. 
         align: left
-        image: images/feature.svg
+        image: images/shutterstock_412894903.jpg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Feature 3
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+      - title: PO's / Government Contracts / Visa/MC
+        content: >
+          ##### We accept credit cards as well as Purchase Orders (on approved
+          credit).
         align: left
-        image: images/feature.svg
+        image: images/shutterstock_160393526.jpg
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
@@ -74,7 +66,7 @@ sections:
     show_recent: true
     recent_count: 3
   - type: cta_section
-    title: This Is A CTA
+    title: Subscribe To Our Newsletter
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.

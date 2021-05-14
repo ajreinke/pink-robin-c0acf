@@ -1,5 +1,5 @@
 ---
-title: Amet Nulla Facilisi Morbi Tempus
+title: 50′ 16/3 SJEO YELLOW TROUBLE LIGHT GROUNDED ME
 date: '2020-06-02'
 author: content/data/team/gordon-norman.yaml
 categories:
@@ -7,12 +7,12 @@ categories:
 tags:
   - Stackbit
   - Netlify
-image: images/5.png
+image: images/172-05858.webp
 image_alt: Post 5 placeholder image
 excerpt: >-
-  Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
-  philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
-  affecit, quanto.
+  Per: EAThis Price Buys You: 1 each Per: eaDelivery Days: 10UPC:
+  298920585866Manufacturer: SouthwirePart Number: 50′ 16/3 SJEO YELLOW TROUBLE
+  LIGHT GROUNDED ME
 seo:
   title: Amet Nulla Facilisi Morbi Tempus
   description: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'

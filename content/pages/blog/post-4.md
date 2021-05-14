@@ -1,5 +1,5 @@
 ---
-title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
+title: '41 PIECE JOURNEYMAN’S TOOL SETS, 20 1/2 IN W X 14.6 IN D X 11.4 IN H'
 date: '2020-05-30'
 author: content/data/team/dianne-ameter.yaml
 categories:
@@ -8,12 +8,11 @@ categories:
 tags:
   - JAMstack
   - Sourcebit
-image: images/4.png
+image: images/409-80141.webp
 image_alt: Post 4 placeholder image
 excerpt: >-
-  Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat
-  Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum certum
-  vitium consuetudo Latina traduceret.
+  Per: STThis Price Buys You: 1 each Per: stDelivery Days: 10Manufacturer: Klein
+  ToolsPart Number: 41-PIECE JOURNEYMAN’S TOOL SET
 seo:
   title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
   description: 'Itaque hoc frequenter dici solet a vobis, non intellegere nos'
