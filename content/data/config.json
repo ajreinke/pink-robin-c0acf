@@ -70,7 +70,7 @@
             },
             {
                 "label": "Terms and Conditions",
-                "url": "#",
+                "url": "/terms",
                 "style": "link",
                 "new_window": false,
                 "no_follow": false,
