@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome To Alpine Supply
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: '100,000 Products From Industrial Hardware to Office Supplies.'
     actions:
       - label: Learn More
         url: /features
