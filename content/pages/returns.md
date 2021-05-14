@@ -5,7 +5,9 @@ sections:
     title: Who We Are
     align: center
   - type: content_section
-    content: "Alpine Supply Inc. (ASI) an Alaskan corporation, has become a valued resource and partner for businesses and governments worldwide. We offer competitive pricing, National Stock Number (NSN) ordering, as well as a bulk ordering API for our large customers.\n\n##### Our products ship direct from the manufacturer, so you know they are the correct part at the best price.\n\n##### By striving to grow organically and partnering with new manufacturers, we have created a system of continuous natural growth. We only partner with manufacturers and brands we trust and can rely on for quality and delivery.\n\n##### We value our customers and work hard to ensure their complete satisfaction.\_***Before, during, and after every sale***, we will be there to answer any questions and to provide the best experience possible.\n"
+    content: "Orders may be subject to a restocking fee dependent on our manufacturer’s policies. Because of our great relationships with our manufacturers, most returns are handled without incurring any fees.
+
+Please ask for details before purchasing and we will be happy to help. If you need to return an item, please email us at returns@alpine.supply and we promise to make things right.\n"
 seo:
   title: Who We Are
   description: This is the about us page
