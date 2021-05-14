@@ -28,7 +28,7 @@ seo:
     - name: 'twitter:title'
       value: Who We Are
     - name: 'twitter:description'
-      value: This is the about us page
+      value: This is the Returns page
     - name: 'twitter:image'
       value: images/1.png
       relativeUrl: true
