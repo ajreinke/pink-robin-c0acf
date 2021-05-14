@@ -44,7 +44,7 @@ sections:
           ##### We have thousands of stocked parts and have access to much more
           from hundreds of brand. 
         align: left
-        image: images/feature.svg
+        image: images/shutterstock_412894903.jpg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
