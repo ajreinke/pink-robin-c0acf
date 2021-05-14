@@ -10,9 +10,6 @@ export default class Page extends React.Component {
             <Layout {...this.props}>
             <article className="page">
               <div className="container container--md">
-                <header className="page__header">
-                  <h1 className="page__title">{_.get(this.props, 'page.frontmatter.title', null)}</h1>
-                </header>
                 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScSmgZr3x7PppRMv0ZJuTPAzdCB31K4mdAUfibLXcrwf6dABw/viewform" width="100%" height="100%"/>
               </div>
             </article>
