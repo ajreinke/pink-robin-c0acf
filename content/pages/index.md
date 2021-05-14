@@ -33,10 +33,7 @@ sections:
         image: images/shutterstock_160393526.jpg
         image_alt: Feature 1 placeholder image
         image_position: right
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
+        actions: []
       - title: Tens of Thousands of Products
         content: >
           ##### We have thousands of stocked parts and have access to much more
