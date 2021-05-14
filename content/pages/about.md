@@ -9,7 +9,6 @@ sections:
   - type: team_section
     title: Our Team
     team:
-      - content/data/team/miles-tone.yaml
       - content/data/team/dianne-ameter.yaml
       - content/data/team/eleanor-carr.yaml
       - content/data/team/gordon-norman.yaml
