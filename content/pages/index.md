@@ -27,7 +27,7 @@ sections:
   - type: features_section
     title: Features
     features:
-      - title: Feature 1
+      - title: Worldwide Supplier
         content: >
           ##### Alpine Supply, Inc. supplies B2B and Government markets around
           the world. 
