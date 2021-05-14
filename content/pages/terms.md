@@ -5,7 +5,7 @@ sections:
     title: Terms and Conditions
     align: center
   - type: content_section
-    content: "##### Alp"
+    content: "Alp"
 seo:
   title: Terms and Conditions
   description: This is the Terms page
