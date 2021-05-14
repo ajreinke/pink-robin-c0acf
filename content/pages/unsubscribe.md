@@ -17,7 +17,7 @@ seo:
       value: Unsubscribe
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: This is the Unsubscribe page
       keyName: property
     - name: 'og:image'
       value: images/1.png
