@@ -1,5 +1,5 @@
 ---
-title: Unsubscribe
+title: Product Catalog
 sections:
   - type: hero_section
     title: Catalog
