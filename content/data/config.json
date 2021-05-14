@@ -29,14 +29,6 @@
                 "type": "action"
             },
             {
-                "label": "Returns",
-                "url": "/returns",
-                "style": "link",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
                 "label": "Terms and Conditions",
                 "url": "/terms",
                 "style": "link",
