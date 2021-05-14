@@ -83,7 +83,7 @@
             },
             {
                 "label": "Privacy Policy",
-                "url": "#",
+                "url": "/privacy-policy",
                 "style": "link",
                 "new_window": false,
                 "no_follow": false,
