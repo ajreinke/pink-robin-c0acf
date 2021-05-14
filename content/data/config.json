@@ -22,7 +22,7 @@
             },
             {
                 "label": "Unsubscribe",
-                "url": "#unsubscribe",
+                "url": "/unsubscribe",
                 "style": "link",
                 "new_window": false,
                 "no_follow": false,
