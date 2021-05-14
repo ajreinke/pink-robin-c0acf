@@ -10,7 +10,6 @@ export default class Page extends React.Component {
             <Layout {...this.props}>
             <article className="page" height="800px">
               <div className="container container--md">
-                <iframe height="500px" src="https://docs.google.com/forms/d/e/1FAIpQLScSmgZr3x7PppRMv0ZJuTPAzdCB31K4mdAUfibLXcrwf6dABw/viewform" width="100%"/>
               </div>
             </article>
             </Layout>
