@@ -8,8 +8,8 @@ export default class Page extends React.Component {
     render() {
         return (
             <Layout {...this.props}>
-            <article className="page">
-              <div height="800px" className="container container--md">
+            <article className="page" height="800px">
+              <div className="container container--md">
                 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScSmgZr3x7PppRMv0ZJuTPAzdCB31K4mdAUfibLXcrwf6dABw/viewform" width="100%" height="100%"/>
               </div>
             </article>
