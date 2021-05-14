@@ -45,7 +45,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "privacy",
                 "url": "#",
                 "style": "link",
                 "new_window": false,
