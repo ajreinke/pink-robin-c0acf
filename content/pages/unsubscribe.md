@@ -5,7 +5,7 @@ sections:
     title: Who We Are
     align: center
   - type: content_section
-    content: <iframe srd="https://docs.google.com/forms/d/e/1FAIpQLScSmgZr3x7PppRMv0ZJuTPAzdCB31K4mdAUfibLXcrwf6dABw/viewform" />
+    content: <iframe height="800px" width="100%" src="https://docs.google.com/forms/d/e/1FAIpQLScSmgZr3x7PppRMv0ZJuTPAzdCB31K4mdAUfibLXcrwf6dABw/viewform" />
 seo:
   title: Who We Are
   description: This is the about us page
