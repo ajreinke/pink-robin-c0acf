@@ -7,7 +7,7 @@
         "nav_links": [
             {
                 "label": "Products",
-                "url": "/features",
+                "url": "/products",
                 "style": "link"
             },
             {
@@ -29,24 +29,8 @@
                 "type": "action"
             },
             {
-                "label": "Returns",
-                "url": "/returns",
-                "style": "link",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
                 "label": "Terms and Conditions",
                 "url": "/terms",
-                "style": "link",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
-                "label": "Privacy Policy",
-                "url": "/privacy-policy",
                 "style": "link",
                 "new_window": false,
                 "no_follow": false,
@@ -67,30 +51,53 @@
                 "label": "Privacy and Terms",
                 "url": "/terms",
                 "style": "link"
+            },
+            {
+                "label": "Terms and Conditions",
+                "url": "/terms",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
+                "label": "Returns",
+                "url": "/returns",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             }
         ],
         "has_social": true,
-        "social_links": [
+        "social_links": [],
+        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=starter&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
+                "label": "Returns",
+                "url": "/returns",
                 "style": "link",
-                "new_window": true
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             },
             {
-                "label": "GitHub",
-                "url": "https://github.com/",
+                "label": "Privacy Policy",
+                "url": "/privacy-policy",
                 "style": "link",
-                "new_window": true
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             },
             {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "label": "lorem-ipsum",
+                "url": "#",
                 "style": "link",
-                "new_window": true
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             }
-        ],
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=starter&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        ]
     },
     "domain": "https://pink-robin-c0acf.netlify.app",
     "favicon": "images/logo%2520transparnet-01.png"
