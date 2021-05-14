@@ -49,7 +49,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: PO's / Government Contracts / Visa/MC
+      - title: Payment Methods
         content: >
           ##### We accept credit cards as well as Purchase Orders (on approved
           credit).
