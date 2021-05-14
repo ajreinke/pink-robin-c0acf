@@ -5,9 +5,9 @@ sections:
     title: Catalog
     align: center
   - type: content_section
-    content: >-
-      <iframe height="800px" width="100%"
-      src="https://pink-robin-c0acf.netlify.app/products/embedThis.html"
+    content: >
+      \<iframe height="800px" width="100%"
+      src="https://github.com/ajreinke/pink-robin-c0acf/blob/master/content/pages/embedThis.html"
       />
 seo:
   title: Product Catalog
