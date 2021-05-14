@@ -7,7 +7,7 @@ sections:
   - type: content_section
     content: >-
       <iframe height="800px" width="100%"
-      src="https://pink-robin-c0acf.netlify.app/embedThis.html"
+      src="https://pink-robin-c0acf.netlify.app/public/embedThis.html"
       />
 seo:
   title: Product Catalog
