@@ -26,7 +26,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Who We Are
+      value: Returns
     - name: 'twitter:description'
       value: This is the Returns page
     - name: 'twitter:image'
