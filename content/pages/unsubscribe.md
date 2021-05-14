@@ -5,17 +5,8 @@ sections:
     title: Unsubscribe
     align: center
   - type: content_section
-    content: 
-
-    <script type="text/javascript">var submitted=false;</script>
-<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
-onload="if(submitted) {window.location='thankyou.html';}"></iframe>
-
-<form action="https://docs.google.com/forms/d/e/1FAIpQLScSmgZr3x7PppRMv0ZJuTPAzdCB31K4mdAUfibLXcrwf6dABw/viewform" 
-method="post" target="hidden_iframe" onsubmit="submitted=true;">
-...
-</form>
-
+    content: <iframe height="800px" width="100%" src="https://docs.google.com/forms/d/e/1FAIpQLScSmgZr3x7PppRMv0ZJuTPAzdCB31K4mdAUfibLXcrwf6dABw/viewform" />
+    
 seo:
   title: Who We Are
   description: This is the Unsubscribe page
