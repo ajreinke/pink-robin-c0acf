@@ -37,7 +37,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Terms and Conditions",
                 "url": "#",
                 "style": "link",
                 "new_window": false,
