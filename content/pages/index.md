@@ -33,10 +33,7 @@ sections:
         image: images/shutterstock_160393526.jpg
         image_alt: Feature 1 placeholder image
         image_position: right
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
+        actions: []
       - title: Tens of Thousands of Products
         content: >
           ##### We have thousands of stocked parts and have access to much more
@@ -45,10 +42,7 @@ sections:
         image: images/shutterstock_412894903.jpg
         image_alt: Feature 2 placeholder image
         image_position: left
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
+        actions: []
       - title: Payment Methods
         content: >
           ##### We accept credit cards as well as Purchase Orders (on approved
@@ -58,10 +52,7 @@ sections:
         image: images/shutterstock_160393526.jpg
         image_alt: Feature 3 placeholder image
         image_position: right
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
+        actions: []
   - type: blog_feed_section
     title: What's New
     show_recent: true

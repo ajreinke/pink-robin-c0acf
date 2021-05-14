@@ -1,7 +1,6 @@
 ---
 title: '41 PIECE JOURNEYMAN’S TOOL SETS, 20 1/2 IN W X 14.6 IN D X 11.4 IN H'
 date: '2020-05-30'
-author: content/data/team/dianne-ameter.yaml
 categories:
   - content/data/categories/tutorials.yaml
   - content/data/categories/news.yaml
