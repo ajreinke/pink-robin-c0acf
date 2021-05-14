@@ -42,10 +42,7 @@ sections:
         image: images/shutterstock_412894903.jpg
         image_alt: Feature 2 placeholder image
         image_position: left
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
+        actions: []
       - title: Payment Methods
         content: >
           ##### We accept credit cards as well as Purchase Orders (on approved
