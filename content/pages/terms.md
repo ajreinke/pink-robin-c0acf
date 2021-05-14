@@ -2,7 +2,7 @@
 title: Terms and Conditions
 sections:
   - type: hero_section
-    title: Unsubscribe
+    title: Terms and Conditions
     align: center
   - type: content_section
     content: "##### Alp"
