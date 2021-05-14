@@ -39,7 +39,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Feature 2
+      - title: Tens of Thousands of Products
         content: >
           ##### We have thousands of stocked parts and have access to much more
           from hundreds of brand. 
