@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Unsubscribe
 seo:
   title: ''
   description: ''
