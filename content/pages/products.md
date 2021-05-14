@@ -5,7 +5,7 @@ sections:
     title: Catalog
     align: center
   - type: content_section
-    content: <iframe height="800px" width="100%" src="https://github.com/ajreinke/pink-robin-c0acf/blob/master/content/pages/embedThis.html" />
+    content: <iframe height="800px" width="100%" src="https://github.com/ajreinke/pink-robin-c0acf/blob/57ac374a3a6eb2db4689c3d918d7cf21092a0d4d/content/pages/embedThis.html" />
 seo:
   title: Product Catalog
   description: This is the Product Catalog page
