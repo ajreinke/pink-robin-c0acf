@@ -1,5 +1,5 @@
 ---
-title: Unsubscribe
+title: Product Catalog
 sections:
   - type: hero_section
     title: Catalog
@@ -7,20 +7,20 @@ sections:
   - type: content_section
     content: >-
       <iframe height="800px" width="100%"
-      src="https://storage.googleapis.com/dk389fklss902lc9sl29dlsl29fdl/Impact-Stripping-Tape-500-3-in-X-10-yd-33-mil-Green-3M-Abrasive-ADHESIVES-SEALANTS--TAPES-TAPE-PRODUCTS.html"
+      src="./embedThis.html"
       />
 seo:
-  title: Who We Are
-  description: This is the Unsubscribe page
+  title: Product Catalog
+  description: This is the Product Catalog page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Unsubscribe
+      value: Product Catalog
       keyName: property
     - name: 'og:description'
-      value: This is the Unsubscribe page
+      value: This is the Product Catalog page
       keyName: property
     - name: 'og:image'
       value: images/1.png
@@ -29,9 +29,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Unsubscribe
+      value: Product Catalog
     - name: 'twitter:description'
-      value: This is the Unsubscribe page
+      value: This is the Product Catalog page
     - name: 'twitter:image'
       value: images/1.png
       relativeUrl: true
