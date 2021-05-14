@@ -21,7 +21,7 @@
                 "style": "primary"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Unsubscribe",
                 "url": "#unsubscribe",
                 "style": "link",
                 "new_window": false,
