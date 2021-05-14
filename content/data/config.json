@@ -43,14 +43,6 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
-            },
-            {
-                "label": "Privacy Policy",
-                "url": "/privacy-policy",
-                "style": "link",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ],
         "logo": "images/logoAlpine.jpg"
