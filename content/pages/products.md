@@ -10,17 +10,17 @@ sections:
       src="embedThis.html"
       />
 seo:
-  title: Who We Are
-  description: This is the Unsubscribe page
+  title: Product Catalog
+  description: This is the Product Catalog page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Unsubscribe
+      value: Product Catalog
       keyName: property
     - name: 'og:description'
-      value: This is the Unsubscribe page
+      value: This is the Product Catalog page
       keyName: property
     - name: 'og:image'
       value: images/1.png
@@ -29,9 +29,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Unsubscribe
+      value: Product Catalog
     - name: 'twitter:description'
-      value: This is the Unsubscribe page
+      value: This is the Product Catalog page
     - name: 'twitter:image'
       value: images/1.png
       relativeUrl: true
