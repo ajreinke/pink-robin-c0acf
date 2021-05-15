@@ -7,7 +7,7 @@ sections:
   - type: content_section
     content: 
 <link rel="preconnect" href="https://cdn.snipcart.com">
-<link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.1.1/default/snipcart.css" border="none" />
+<link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.1.1/default/snipcart.css" border: 0 />
 <script async src="https://cdn.snipcart.com/themes/v3.1.1/default/snipcart.js"></script>
 <div hidden id="snipcart" data-api-key="NTQ0MzEwZmMtM2EwOS00MjhmLTk3ZTYtNWJjNWNlNGE1Njc0NjM3NTYxOTgyMDE1MjgyNDAy"></div>
 
