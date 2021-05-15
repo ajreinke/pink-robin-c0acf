@@ -17,7 +17,7 @@ sections:
     </head>
     <body>
     <form action="" method="post">
-    <table class="">
+    <table class="" border="none">
         <tr>
         <td><img src="https://storage.googleapis.com/dk389fklss902lc9sl29dlsl29fdl/ors/orsnasco_spider/images/405-021200-24359.jpg"></img></td>
         <td>
