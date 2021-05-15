@@ -13,7 +13,7 @@ export default class ContentSection extends React.Component {
                 <h2 className="section__title align-center">{_.get(section, 'title', null)}</h2>
                 )}
                 {_.get(section, 'content', null) && (
-                <div className="section__copy" { border: none; }>
+                <div className="section__copy" >
                   {markdownify(_.get(section, 'content', null))}
                 </div>
                 )}
