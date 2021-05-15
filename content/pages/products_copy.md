@@ -12,9 +12,6 @@ sections:
 <div hidden id="snipcart" data-api-key="NTQ0MzEwZmMtM2EwOS00MjhmLTk3ZTYtNWJjNWNlNGE1Njc0NjM3NTYxOTgyMDE1MjgyNDAy"></div>
 
 <html>
-    <head>
-    <link href="bootstrap.min.css" rel="stylesheet">
-    </head>
     <body>
     <form action="" method="post">
     <table class="" border="none">
