@@ -74,14 +74,6 @@
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=starter&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
         "links": [
             {
-                "label": "Returns",
-                "url": "/returns",
-                "style": "link",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
                 "label": "Privacy Policy",
                 "url": "/privacy-policy",
                 "style": "link",
