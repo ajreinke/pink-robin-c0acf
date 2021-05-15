@@ -9,7 +9,7 @@ export default class ContentSection extends React.Component {
         return (
             <section className="section">
               <div className="container container--md" >
-                {_.get(section, 'title', null) && (border: none) && (
+                {_.get(section, 'title', null) &&   (
                 <h2 className="section__title align-center">{_.get(section, 'title', null)}</h2>
                 )}
                 {_.get(section, 'content', null) && (
